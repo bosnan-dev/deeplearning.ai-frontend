@@ -1,4 +1,4 @@
-// File: D:\Downloads\next_test\src\app\api\courses\route.ts
+// File: D:\Development Code\DeepLearning.ai\deeplearning.ai-frontend\src\app\api\courses\route.ts
 import * as entry from '../../../../../src/app/api/courses/route.js'
 import type { NextRequest } from 'next/server.js'
 

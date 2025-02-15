@@ -1,4 +1,4 @@
-// File: D:\Downloads\next_test\src\app\layout.tsx
+// File: D:\Development Code\DeepLearning.ai\deeplearning.ai-frontend\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
